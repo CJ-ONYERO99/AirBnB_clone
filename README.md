@@ -39,4 +39,4 @@ You can also specify a single test file to run at a time:
 ```
 $ python3 unittest -m tests/test_console.py
 ```
-
+This project was done alone as the one assigned was not available
